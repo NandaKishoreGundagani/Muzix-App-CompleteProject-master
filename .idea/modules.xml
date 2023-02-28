@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Muzix-App-CompleteProject-master/Muzix-App-Backend/ApiGateWay/ApiGateWay.iml" filepath="$PROJECT_DIR$/Muzix-App-CompleteProject-master/Muzix-App-Backend/ApiGateWay/ApiGateWay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Muzix-App-CompleteProject-master/Muzix-App-Backend/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/Muzix-App-CompleteProject-master/Muzix-App-Backend/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Muzix-App-CompleteProject-master/Muzix-App-Backend/Favourite-List-Service/Favourite-List-Service.iml" filepath="$PROJECT_DIR$/Muzix-App-CompleteProject-master/Muzix-App-Backend/Favourite-List-Service/Favourite-List-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Muzix-App-CompleteProject-master/Muzix-App-Backend/Movie-Service/Movie-Service.iml" filepath="$PROJECT_DIR$/Muzix-App-CompleteProject-master/Muzix-App-Backend/Movie-Service/Movie-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Muzix-App-CompleteProject-master/Muzix-App-Backend/Muzix-App-Backend.iml" filepath="$PROJECT_DIR$/Muzix-App-CompleteProject-master/Muzix-App-Backend/Muzix-App-Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Muzix-App-CompleteProject-master (1).iml" filepath="$PROJECT_DIR$/.idea/Muzix-App-CompleteProject-master (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Muzix-App-CompleteProject-master/Muzix-App-Backend/Search-Service/Search-Service.iml" filepath="$PROJECT_DIR$/Muzix-App-CompleteProject-master/Muzix-App-Backend/Search-Service/Search-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Muzix-App-CompleteProject-master/Muzix-App-Backend/User-Service/User-Service.iml" filepath="$PROJECT_DIR$/Muzix-App-CompleteProject-master/Muzix-App-Backend/User-Service/User-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Muzix-App-CompleteProject-master/Muzix-App-Backend/authentication/authentication.iml" filepath="$PROJECT_DIR$/Muzix-App-CompleteProject-master/Muzix-App-Backend/authentication/authentication.iml" />
+    </modules>
+  </component>
+</project>

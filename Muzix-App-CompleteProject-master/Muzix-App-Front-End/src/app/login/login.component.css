@@ -1,0 +1,35 @@
+form{
+    padding: 999px;
+    margin-left: 400px; 
+    margin-top: 50px;
+    position: relative;
+    width: 350px;
+    height: 350px;
+    border-radius: 20px;
+    padding: 40px;
+    box-sizing: border-box;
+    background: #ecf0f3;
+    box-shadow: 14px 14px 20px #cbced1, -14px -14px 20px rgb(143, 139, 139);
+    text-decoration: none;
+  
+  }
+  a{
+    text-decoration: none;
+  }
+  loginPage{
+    width: 100%;
+    background-position: 100%;
+    background-color: #cbced1;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+  margin: 0px;
+  min-height: 100%;
+  width: 100%;
+  }
+  .footer{
+    padding-top: 170px;
+  }
+  .top{
+    padding-top: 15px;
+  }
